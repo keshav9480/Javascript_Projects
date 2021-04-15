@@ -1,0 +1,31 @@
+.drum {
+	padding: 40px;
+	text-align: center;
+	margin-right: 12px;
+	margin-left: 12px;
+	margin-bottom: 12px;
+	font-size: 34px;
+	border-top-style: double;
+} 
+
+.w{
+	background-image: url("images/crash.png");
+}
+.a{
+	background-image: url("images/kick.png");
+}
+.s{
+	background-image: url("images/snare.png");
+}
+.d{
+	background-image: url("images/tom1.png");
+}
+.j{
+	background-image: url("images/tom2.png");
+}
+.k{
+	background-image: url("images/tom3.png");
+}
+.l{
+	background-image: url("images/tom4.png");
+}
