@@ -38,3 +38,7 @@ return num1 / num2;
 function calculator(num1, num2, operator) {
 return operator(num1, num2);
 }
+
+
+/*Callback Function*/
+A function which is passed as parameter to another function
