@@ -14,10 +14,11 @@ etc...
 
 
 
-Higher Order Function
-These are the function which takes other functions as input parameter.
-Eg:
+*Higher Order Function*
 
+These are the function which takes other functions as input parameter.
+
+Eg:
 function add(num1, num2) {
 return num1 + num2;
 }
